@@ -20,16 +20,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrossjr&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandrossjr&show_icons=true&theme=radical)
-
-## 🚀 Outras Estatísticas  
-![GitHub Streak](https://streak-stats.demolab.com/?user=evandrossjr&theme=radical&hide_border=false)
-
-
 ## 🔥 GitHub Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=evandrossjr&theme=radical&hide_border=false)
 
-## 🚀 Atividade Recentemente  
+## 🚀 Atividade Recentemente
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrossjr&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
