@@ -25,7 +25,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=evandrossjr&theme=highcontrast&hide_border=false)
 
 ## 🚀 Atividade Recentemente
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrossjr&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrossjr&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 📫 Como me encontrar?  
