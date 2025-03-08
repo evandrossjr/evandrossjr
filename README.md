@@ -15,10 +15,10 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrossjr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrossjr&layout=compact&langs_count=7&theme=radical"/>
-</div>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evandrossjr&layout=compact&langs_count=7&theme=radical)
 
 ## 🔥 GitHub Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=evandrossjr&theme=radical&hide_border=false)
