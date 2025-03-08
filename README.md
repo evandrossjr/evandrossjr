@@ -14,13 +14,24 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrossjr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrossjr&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandrossjr&show_icons=true&theme=radical)
 
 ## 🚀 Outras Estatísticas  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=evandrossjr&theme=radical&hide_border=false)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=evandrossjr&theme=radical)
+
+## 🔥 GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=evandrossjr&theme=radical&hide_border=false)
+
+## 🚀 Atividade Recentemente  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrossjr&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 📫 Como me encontrar?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evandrosacramento)
