@@ -19,6 +19,7 @@
 
 ## 🚀 Outras Estatísticas  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=evandrossjr&theme=radical&hide_border=false)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=evandrossjr&theme=radical)
 
 ## 📫 Como me encontrar?  
