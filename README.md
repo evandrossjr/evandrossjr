@@ -1,4 +1,4 @@
-# Olá, eu sou Evandro Sacramento! 👋
+# Olá, eu sou Evandro Sacramento! 👨🏿‍💻
 
 🎯 **Transição de Carreira:** De Logística para Tecnologia  
 🎓 **Formação:** Engenheiro de Produção | Técnico em Desenvolvimento de Sistemas  
@@ -14,11 +14,10 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
-
 ## 📊 GitHub Stats 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandrossjr&show_icons=true&theme=highcontrast)
 
-## Most Used Languages
+## 💻 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evandrossjr&layout=compact&langs_count=7&theme=highcontrast)
 
 ## 🔥 GitHub Streak  
@@ -26,7 +25,6 @@
 
 ## 🚀 Atividade Recentemente
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrossjr&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## 📫 Como me encontrar?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandrosacramento/)
