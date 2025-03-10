@@ -4,6 +4,10 @@
 🎓 **Formação:** Engenheiro de Produção | Técnico em Desenvolvimento de Sistemas  
 🚀 **Apaixonado por Tecnologia:** Desenvolvimento Back-End & Automação  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandrosacramento/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evandrossjr)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:evandro-dev@outlook.com)
+
 ## 🚀 Tecnologias & Ferramentas  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -26,9 +30,5 @@
 ## 🚀 Atividade Recentemente
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrossjr&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📫 Como me encontrar?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandrosacramento/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evandrossjr)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:evandro-dev@outlook.com)
 
 
