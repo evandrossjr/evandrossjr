@@ -24,6 +24,7 @@
 ## 💻 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evandrossjr&layout=compact&langs_count=7&theme=highcontrast)
 
+
 ## 🔥 GitHub Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=evandrossjr&theme=highcontrast&hide_border=false)
 
