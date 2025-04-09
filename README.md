@@ -33,7 +33,7 @@
 
 <img src="https://countapi.xyz/hit/evandrossjr/evandrossjr" alt="contador de visitas">
 
-![Visitantes](https://img.shields.io/badge/Visitantes-0001-blue?style=flat&logo=github)
+
 
 
 <p align="center">
