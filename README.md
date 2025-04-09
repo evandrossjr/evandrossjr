@@ -28,6 +28,10 @@
 ## 🔥 GitHub Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=evandrossjr&theme=highcontrast&hide_border=false)
 
+## Visitantes
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=evandrossjr.evandrossjr)
+
+
 ## 🚀 Atividade Recentemente
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrossjr&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
