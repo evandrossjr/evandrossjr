@@ -31,6 +31,9 @@
 ## Visitantes
 ![Visitantes](https://visitor-badge.glitch.me/badge?page_id=evandrossjr.evandrossjr)
 
+<img src="https://countapi.xyz/hit/evandrossjr/evandrossjr" alt="contador de visitas">
+
+
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=evandrossjr.evandrossjr" alt="visitantes"/>
 </p>
