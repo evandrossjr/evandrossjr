@@ -3,12 +3,13 @@
 🎯 **Transição de Carreira:**  
 De Logística para Tecnologia  
 
-🎓 **Formação:** 
+🎓 **Formação:**  
 Engenheiro de Produção Faculdade Área 1  
 Técnico em Desenvolvimento de Sistemas - Senai  
 MBA em Engenharia de Software (loading...) - USP ESALQ  
 
-🚀 **Apaixonado por Tecnologia:** Desenvolvimento Back-End & Automação  
+🚀 **Apaixonado por Tecnologia:**   
+Desenvolvimento Back-End & Automação  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandrosacramento/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evandrossjr)
