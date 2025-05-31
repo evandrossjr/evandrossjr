@@ -4,9 +4,9 @@
 De Logística para Tecnologia  
 
 🎓 **Formação:**  
-✅️Engenheiro de Produção - Faculdade Área 1  
-✅️Técnico em Desenvolvimento de Sistemas - Senai  
-⏳️MBA em Engenharia de Software - USP ESALQ  
+✅️ Engenheiro de Produção - Faculdade Área 1  
+✅️ Técnico em Desenvolvimento de Sistemas - Senai  
+⏳️ MBA em Engenharia de Software - USP ESALQ  
 
 🚀 **Apaixonado por Tecnologia:**   
 Desenvolvimento Back-End & Automação  
