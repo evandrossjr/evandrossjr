@@ -1,7 +1,13 @@
 # Olá, eu sou Evandro Sacramento Junior! 👨🏿‍💻
 
-🎯 **Transição de Carreira:** De Logística para Tecnologia  
-🎓 **Formação:** Engenheiro de Produção | Técnico em Desenvolvimento de Sistemas | MBA em Engenharia de Software (loading...)  
+🎯 **Transição de Carreira:**  
+De Logística para Tecnologia  
+
+🎓 **Formação:** 
+Engenheiro de Produção Faculdade Área 1  
+Técnico em Desenvolvimento de Sistemas - Senai  
+MBA em Engenharia de Software (loading...) - USP ESALQ  
+
 🚀 **Apaixonado por Tecnologia:** Desenvolvimento Back-End & Automação  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandrosacramento/)
