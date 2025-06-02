@@ -14,6 +14,12 @@ Desenvolvimento Back-End & Automação
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandrosacramento/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evandrossjr)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:evandro-dev@outlook.com)
+<!-- 💬 Badge com status online/offline (falso, apenas decorativo) -->
+![Status](https://img.shields.io/badge/Status-Online-brightgreen)
+<!-- 🌐 Contador de visitas -->
+![Visitors](https://komarev.com/ghpvc/?username=evandrossjr&label=Profile%20views&color=0e75b6&style=flat)
+
+ 
 
 ## 🚀 Tecnologias & Ferramentas  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,6 +32,9 @@ Desenvolvimento Back-End & Automação
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
 ## 📊 GitHub Stats 
+ ![trophy](https://github-profile-trophy.vercel.app/?username=evandrossjr&theme=highcontrast)
+![Monthly Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evandrossjr&theme=highcontrast&utcOffset=-3)
+ ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evandrossjr&theme=highcontrast)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandrossjr&show_icons=true&theme=highcontrast)
 
 ## 💻 Most Used Languages
@@ -39,6 +48,5 @@ Desenvolvimento Back-End & Automação
 
 ## 🚀 Atividade Recentemente
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrossjr&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
