@@ -32,7 +32,7 @@ Desenvolvimento Back-End & Automação
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
 ## 📊 GitHub Stats 
- ![trophy](https://github-profile-trophy.vercel.app/?username=evandrossjr&theme=highcontrast)
+![Trophy - Juicyfresh](https://github-profile-trophy.vercel.app/?username=evandrossjr&theme=juicyfresh)
 ![Monthly Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evandrossjr&theme=highcontrast&utcOffset=-3)
  ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evandrossjr&theme=highcontrast)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandrossjr&show_icons=true&theme=highcontrast)
@@ -48,5 +48,4 @@ Desenvolvimento Back-End & Automação
 
 ## 🚀 Atividade Recentemente
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrossjr&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
