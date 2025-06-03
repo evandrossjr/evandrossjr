@@ -1,5 +1,5 @@
 
-# 👋 Olá! Eu sou Evandro Sacramento Junior
+# 👾 Olá! Eu sou Evandro Sacramento Junior 👨🏿‍💻
 
 ## 🎯 Transição de Carreira:
 
@@ -16,7 +16,7 @@
 ## 💼 Atuação Profissional:  
 Desenvolvedor Java Júnior em busca da primeira oportunidade na área de tecnologia. Tenho background sólido em logística, com habilidades transferíveis como raciocínio lógico, resolução de problemas e gestão de processos. Hoje, aplico essas competências no desenvolvimento de sistemas com Java, Spring Boot e MySQL.
 
-## 🚀 Áreas de Interesse:
+## 💭 Áreas de Interesse:
 Desenvolvimento Back-End  
 Integração de Sistemas  
 Automação  
@@ -56,7 +56,7 @@ Banco de Dados Relacionais
 ![GitHub Streak](https://streak-stats.demolab.com/?user=evandrossjr&theme=highcontrast&hide_border=false)
 
 
-## 🚀 Atividade Recentemente
+## 🏃🏿‍♂️ Atividade Recentemente
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrossjr&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
