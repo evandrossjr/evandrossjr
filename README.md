@@ -16,10 +16,7 @@ Desenvolvimento Back-End & Automação
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:evandro-dev@outlook.com)
 <!-- 💬 Badge com status online/offline (falso, apenas decorativo) -->
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen)
-<!-- 🌐 Contador de visitas -->
-![Visitors](https://komarev.com/ghpvc/?username=evandrossjr&label=Profile%20views&color=0e75b6&style=flat)
 
- 
 
 ## 🚀 Tecnologias & Ferramentas  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,7 +42,12 @@ Desenvolvimento Back-End & Automação
 ![GitHub Streak](https://streak-stats.demolab.com/?user=evandrossjr&theme=highcontrast&hide_border=false)
 
 
-
 ## 🚀 Atividade Recentemente
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrossjr&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## 👁️ Visitas no Perfil
+![Visualizações de Perfil](https://komarev.com/ghpvc/?username=evandrossjr&label=Profile%20views&color=0e75b6&style=flat)
+
+
 
