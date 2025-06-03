@@ -9,7 +9,7 @@
 
 ## 🎓 Formação Acadêmica:
 🎓 Engenheiro de Produção – Faculdade Área 1  
-🎓 Técnico em Desenvolvimento de Sistemas – SENAI BA 
+🎓 Técnico em Desenvolvimento de Sistemas – SENAI BA  
 🎓 MBA em Engenharia de Software – USP ESALQ (em andamento)  
 🎓 Técnico em Automação Industrial – SENAI BA  
 
