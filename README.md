@@ -1,35 +1,30 @@
 
-### 👋 Olá! Eu sou Evandro Sacramento Junior
+# 👋 Olá! Eu sou Evandro Sacramento Junior
 
-🎯 Transição de Carreira:
+## 🎯 Transição de Carreira:
 
 > Da Logística para o Desenvolvimento de Software
 
 
 
-🎓 Formação Acadêmica:
+## 🎓 Formação Acadêmica:
 🎓 Engenheiro de Produção – Faculdade Área 1
 🎓 Técnico em Desenvolvimento de Sistemas – SENAI BA (em andamento)
 🎓 MBA em Engenharia de Software – USP ESALQ
 🎓 Técnico em Automação Industrial – SENAI BA
 
-💼 Atuação Profissional:
+## 💼 Atuação Profissional:  
 Desenvolvedor Java Júnior em busca da primeira oportunidade na área de tecnologia. Tenho background sólido em logística, com habilidades transferíveis como raciocínio lógico, resolução de problemas e gestão de processos. Hoje, aplico essas competências no desenvolvimento de sistemas com Java, Spring Boot e MySQL.
 
-🚀 Áreas de Interesse:
-
-Desenvolvimento Back-End
-
-Integração de Sistemas
-
-Automação
-
-APIs RESTful
-
+## 🚀 Áreas de Interesse:
+Desenvolvimento Back-End  
+Integração de Sistemas  
+Automação  
+APIs RESTful  
 Banco de Dados Relacionais
 
 
-🌐 Conecte-se Comigo
+## 🌐 Conecte-se Comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandrosacramento/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evandrossjr)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:evandro-dev@outlook.com)
