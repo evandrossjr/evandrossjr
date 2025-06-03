@@ -8,10 +8,10 @@
 
 
 ## 🎓 Formação Acadêmica:
-🎓 Engenheiro de Produção – Faculdade Área 1
-🎓 Técnico em Desenvolvimento de Sistemas – SENAI BA (em andamento)
-🎓 MBA em Engenharia de Software – USP ESALQ
-🎓 Técnico em Automação Industrial – SENAI BA
+🎓 Engenheiro de Produção – Faculdade Área 1  
+🎓 Técnico em Desenvolvimento de Sistemas – SENAI BA 
+🎓 MBA em Engenharia de Software – USP ESALQ (em andamento)  
+🎓 Técnico em Automação Industrial – SENAI BA  
 
 ## 💼 Atuação Profissional:  
 Desenvolvedor Java Júnior em busca da primeira oportunidade na área de tecnologia. Tenho background sólido em logística, com habilidades transferíveis como raciocínio lógico, resolução de problemas e gestão de processos. Hoje, aplico essas competências no desenvolvimento de sistemas com Java, Spring Boot e MySQL.
