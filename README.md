@@ -1,5 +1,5 @@
 
-# 👾 Olá! Eu sou Evandro Sacramento Junior 👨🏿‍💻
+# 👾 Olá! Eu sou Evandro Sacramento 👨🏿‍💻
 
 ## 🎯 Transição de Carreira:
 
@@ -23,7 +23,6 @@ Automação
 APIs RESTful  
 Banco de Dados Relacionais
 
-
 ## 🌐 Conecte-se Comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandrosacramento/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evandrossjr)
@@ -42,11 +41,17 @@ Banco de Dados Relacionais
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
+## ✅ Projetos Relevantes  
+### Clinica em Java + Spring Boot com Thymeleaf  
+https://github.com/evandrossjr/clinica-ianes  
+
+
 ## 📊 GitHub Stats 
 ![Trophy - Juicyfresh](https://github-profile-trophy.vercel.app/?username=evandrossjr&theme=juicyfresh)
 ![Monthly Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evandrossjr&theme=highcontrast&utcOffset=-3)
  ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evandrossjr&theme=highcontrast)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandrossjr&show_icons=true&theme=highcontrast)
+
 
 ## 💻 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evandrossjr&layout=compact&langs_count=7&theme=highcontrast)
