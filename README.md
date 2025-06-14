@@ -45,6 +45,9 @@ Banco de Dados Relacionais
 ### Clinica em Java + Spring Boot com Thymeleaf  
 https://github.com/evandrossjr/clinica-ianes  
 
+### Controle de Estoque em Java + Spring Boot 
+https://github.com/evandrossjr/warehouse
+
 
 ## 📊 GitHub Stats 
 ![Trophy - Juicyfresh](https://github-profile-trophy.vercel.app/?username=evandrossjr&theme=juicyfresh)
