@@ -4,8 +4,7 @@
 ## 🎯 Transição de Carreira:
 
 > Da Logística para o Desenvolvimento de Software
-
-
+Com mais de 15 anos trabalhando na área logística estou migrando para desenvolvimento de software.
 
 ## 🎓 Formação Acadêmica:
 🎓 MBA em Engenharia de Software – USP ESALQ (em andamento)  
