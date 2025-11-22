@@ -13,21 +13,18 @@ Com mais de 15 anos trabalhando na área logística estou migrando para desenvol
 🎓 Técnico em Automação Industrial – SENAI BA  
 
 ## 💼 Atuação Profissional:  
-Desenvolvedor Java Júnior em busca da primeira oportunidade na área de tecnologia. Tenho background sólido em logística, com habilidades transferíveis como raciocínio lógico, resolução de problemas e gestão de processos. Hoje, aplico essas competências no desenvolvimento de sistemas com Java, Spring Boot e MySQL.
+Desenvolvedor Java Júnior em busca da primeira oportunidade na área de tecnologia. Tenho background sólido em logística, com habilidades transferíveis como raciocínio lógico, resolução de problemas e gestão de processos. Hoje, aplico essas competências no desenvolvimento de sistemas com Java, Spring Boot e Angular.
 
 ## 💭 Áreas de Interesse:
 Desenvolvimento Back-End  
-Integração de Sistemas  
-Automação  
-APIs RESTful  
-Banco de Dados Relacionais
+Desenvolvimento FullStack  
+
 
 ## 🌐 Conecte-se Comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandrosacramento/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evandrossjr)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:evandro-dev@outlook.com)
-<!-- 💬 Badge com status online/offline (falso, apenas decorativo) -->
-![Status](https://img.shields.io/badge/Status-Online-brightgreen)
+
 
 
 ## 🚀 Tecnologias & Ferramentas  
@@ -37,16 +34,30 @@ Banco de Dados Relacionais
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
-## ✅ Projetos Relevantes  
-### Clinica em Java + Spring Boot com Thymeleaf  
-https://github.com/evandrossjr/clinica-ianes  
+## ✅ Projetos Relevantes 
 
-### Controle de Estoque em Java + Spring Boot 
-https://github.com/evandrossjr/warehouse
+### Controle de Despesas (Spring Boot + Angular)  
+[Projeto no Ar](https://dimonex.netlify.app/)
+[Github Backend](https://github.com/evandrossjr/DinMonex-api)
+[Github Frontend](https://github.com/evandrossjr/DinMonex-web)
 
+### CRM para cadastro de clientes com relatório em PDF (Spring Boot + Thymeleaf)
+[Projeto no Ar](https://ca-crm-lufu.onrender.com/)
+[Github](https://github.com/evandrossjr/Cadastro)  
+
+### TO-DO Lists (Spring Boot + Thymeleaf)  
+[Projeto no Ar](https://meu-gestor-de-tarefas-app.onrender.com/)
+[Github](https://github.com/evandrossjr/MeuGestorDeTarefas)  
+
+### Aplicação para Clinica (Spring Boot + Thymeleaf)  
+[Projeto no Ar](https://clinica-ianes.onrender.com/)
+[Github](https://github.com/evandrossjr/clinica-ianes)  
+
+### Medição de Temperatura com ESP32 (Spring Boot + Thymeleaf + Alexa Skills)  
+[Projeto no Ar](https://temperatura-esp32.onrender.com/painel)
+[Github Java](https://github.com/evandrossjr/Medidor-de-Temperatura-SpringBoot-ESP32)
+[Github ESP32](https://github.com/evandrossjr/Medi-o-de-Temperatura-e-Umidade-ESP32)  
 
 ## 📊 GitHub Stats 
 ![Trophy - Juicyfresh](https://github-profile-trophy.vercel.app/?username=evandrossjr&theme=juicyfresh)
@@ -67,8 +78,7 @@ https://github.com/evandrossjr/warehouse
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrossjr&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 👁️ Visitas no Perfil
-![Visualizações de Perfil](https://komarev.com/ghpvc/?username=evandrossjr&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 
