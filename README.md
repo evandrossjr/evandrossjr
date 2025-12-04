@@ -59,10 +59,6 @@ Desenvolvimento FullStack
 [Github Java](https://github.com/evandrossjr/Medidor-de-Temperatura-SpringBoot-ESP32)
 [Github ESP32](https://github.com/evandrossjr/Medi-o-de-Temperatura-e-Umidade-ESP32)  
 
-## 📊 GitHub Stats 
- ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evandrossjr&theme=highcontrast)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandrossjr&show_icons=true&theme=highcontrast)
-
 
 ## 💻 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evandrossjr&layout=compact&langs_count=7&theme=highcontrast)
