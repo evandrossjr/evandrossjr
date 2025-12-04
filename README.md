@@ -60,8 +60,6 @@ Desenvolvimento FullStack
 [Github ESP32](https://github.com/evandrossjr/Medi-o-de-Temperatura-e-Umidade-ESP32)  
 
 ## 📊 GitHub Stats 
-![Trophy - Juicyfresh](https://github-profile-trophy.vercel.app/?username=evandrossjr&theme=juicyfresh)
-![Monthly Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evandrossjr&theme=highcontrast&utcOffset=-3)
  ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evandrossjr&theme=highcontrast)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandrossjr&show_icons=true&theme=highcontrast)
 
