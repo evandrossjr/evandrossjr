@@ -70,13 +70,6 @@ Desenvolvimento FullStack
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evandrossjr&layout=compact&langs_count=7&theme=highcontrast)
 
 
-## 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=evandrossjr&theme=highcontrast&hide_border=false)
-
-
-## 🏃🏿‍♂️ Atividade Recentemente
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrossjr&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 
