@@ -1,5 +1,5 @@
 
-# 👾 Olá! Eu sou Evandro Sacramento Junior👨🏿‍💻
+# Evandro Sacramento Junior
 
 ## 👨🏿‍💻 DESENVOLVERDOR DE SOFTWARE
 
