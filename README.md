@@ -7,7 +7,7 @@
 🎓 MBA em Engenharia de Software – USP ESALQ (em andamento)  
 🎓 Técnico em Desenvolvimento de Sistemas – SENAI BA  
 🎓 Engenheiro de Produção – Faculdade Área 1  
-🎓 Técnico em Automação Industrial – SENAI BA  
+
 
 ## 💼 Atuação Profissional:  
 Desenvolvedor Java Júnior em Java(Spring Boot), Javcascript e Angular.
