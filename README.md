@@ -65,7 +65,3 @@ Desenvolvimento FullStack
 
 
 
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=evandrossjr.evandrossjr&style=flat)
-
