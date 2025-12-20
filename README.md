@@ -1,5 +1,5 @@
 
-# Evandro Sacramento Junior
+# Evandro Sacramento
 
 ## 👨🏿‍💻 DESENVOLVERDOR DE SOFTWARE
 
