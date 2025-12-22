@@ -10,7 +10,7 @@
 
 
 ## 💼 Atuação Profissional:  
-Desenvolvedor Java Júnior em Java(Spring Boot), Javcascript e Angular.
+Desenvolvedor Java Júnior em Java(Spring Boot), Javcascript, Python e Angular.
 
 ## 💭 Áreas de Interesse:
 Desenvolvimento Back-End  
