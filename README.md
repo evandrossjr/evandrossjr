@@ -4,6 +4,7 @@
 ## 👨🏿‍💻 DESENVOLVERDOR DE SOFTWARE
 
 ## 🎓 Formação Acadêmica:
+🎓 Ciência daComputação - Descomplica (em andamento)  
 🎓 MBA em Engenharia de Software – USP ESALQ (em andamento)  
 🎓 Técnico em Desenvolvimento de Sistemas – SENAI BA  
 🎓 Engenheiro de Produção – Faculdade Área 1  
