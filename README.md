@@ -4,8 +4,8 @@
 ## 👨🏿‍💻 DESENVOLVERDOR DE SOFTWARE
 
 ## 🎓 Formação Acadêmica:
-🎓 Ciência da Computação – Descomplica (em andamento)  
 🎓 MBA em Engenharia de Software – USP ESALQ (em andamento)  
+🎓 Pós Técnico - Especialização Técnica em Desenvolvimento de Aplicações para Inteligência Artificial - SENAI CIMATEC (em andamento)
 🎓 Técnico em Desenvolvimento de Sistemas – SENAI BA  
 🎓 Engenheiro de Produção – Faculdade Área 1  
 
